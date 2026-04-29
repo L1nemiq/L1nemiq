@@ -1,4 +1,4 @@
-# Hi there! I'm <YOUR_NAME> 👋
+# Hi there! I'm L1nemiq 👋
 
 ### 💫 About Me
 I'm an aspiring Frontend Developer and UI enthusiast. I'm passionate about building clean, modern interfaces and exploring the latest web design trends. 
@@ -24,11 +24,11 @@ I'm an aspiring Frontend Developer and UI enthusiast. I'm passionate about build
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=<YOUR_USERNAME>&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=<YOUR_USERNAME>&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=L1nemiq&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L1nemiq&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ### 📫 Connect with me
-[<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/<YOUR_TELEGRAM>)
+[<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/L1nemiq)
