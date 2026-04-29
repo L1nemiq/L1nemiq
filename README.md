@@ -20,3 +20,6 @@ I'm an aspiring Frontend Developer and UI enthusiast. I'm passionate about build
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" />
 </p>
+
+### 📫 Connect with me
+[<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/L1nemiq)
