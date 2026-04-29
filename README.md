@@ -6,7 +6,7 @@ I'm an aspiring Frontend Developer and UI enthusiast. I'm passionate about build
 - 🔭 **Current Focus:** Mastering semantic HTML and advanced CSS layouts.
 - 🌱 **Learning Path:** Deep diving into JavaScript and React foundations.
 - 🎨 **Interests:** Glassmorphism, modern UI/UX design, and interactive game interfaces.
-- ⚡ **Hobbies:** Game server administration and performance optimization.
+- ⚡ **Hobbies:** Managing game servers and tweaking complex configurations.
 
 ---
 
